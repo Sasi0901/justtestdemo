@@ -8,8 +8,8 @@ public class Main {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         Scanner sc = new Scanner(System.in);
-//        System.out.println("Enter First String");
-//        String first = sc.next();
+        System.out.println("Enter First String");
+        String first = sc.next();
 //        System.out.println("Enter Second String");
 //        String second =sc.next();
 //        System.out.println("The length of the first string is "+first.length());
